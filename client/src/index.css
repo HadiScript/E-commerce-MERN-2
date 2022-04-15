@@ -1,0 +1,6 @@
+body {
+  background-color: #ffffff;
+  color: #000000;
+  overflow: -moz-scrollbars-vertical;
+  overflow-y: auto;
+}
